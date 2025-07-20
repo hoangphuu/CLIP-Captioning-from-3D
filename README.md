@@ -2,7 +2,7 @@
 *A Unified Framework for Multi-View Vision-Language Learning using Pix3D*
 
 ---
-![Pipeline Diagram](./asset/block_diagram.png)
+![Pipeline Diagram](.clip-captioner/asset/block_diagram.png)
 ##  Overview
 
 This project explores a **vision-language framework** that bridges **3D mesh data** and **natural language**, focusing on **image captioning** and **cross-modal retrieval** using **CLIP**. Specifically, we render **multi-view 2D images** from **3D object meshes (Pix3D dataset)**, and fine-tune a CLIP model to align the visual and textual modalities.
