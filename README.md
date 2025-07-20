@@ -134,7 +134,7 @@ tensorboard --logdir logs/
              |   Contrastive Loss (CLIP)     |
              +------------------------------+
 ```
-📚 References
+## References
 - Radford et al. (2021) Learning Transferable Visual Models From Natural Language Supervision (CLIP)
 
 - Sun et al. (2018) Pix3D: Dataset and Benchmark for 3D Shape Understanding from a Single Image
